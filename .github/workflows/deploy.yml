@@ -1,0 +1,12 @@
+PS C:\Users\LENOVO\OneDrive\Pictures\Desktop\React task\radio-clr> git push -u origin main
+Enumerating objects: 21, done.
+Counting objects: 100% (21/21), done.
+Delta compression using up to 12 threads
+Compressing objects: 100% (21/21), done.
+Writing objects: 100% (21/21), 45.62 KiB | 1.63 MiB/s, done.
+Total 21 (delta 1), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (1/1), done.
+To https://github.com/vaishnaviwaghne6-hash/radio-clr.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+PS C:\Users\LENOVO\OneDrive\Pictures\Desktop\React task\radio-clr> 
